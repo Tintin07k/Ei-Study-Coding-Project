@@ -23,7 +23,7 @@ The solution utilizes Object-Oriented Programming (OOP) principles and incorpora
 
 This ensures modularity, encapsulation, and a strong design architecture.
 
-## Exercise 1: Problem Statement on Design Patterns
+## Exercise 1: Design Patterns
 
 ### Behavioral Design Patterns
 
