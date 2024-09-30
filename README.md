@@ -19,7 +19,7 @@ The solution utilizes Object-Oriented Programming (OOP) principles and incorpora
 
 - **Observer Pattern**: All devices are updated automatically whenever a change is made in the system.
 - **Factory Method Pattern**: Used to create different type of smart devices (lights, thermostats, door locks).
-- **Proxy Pattern**: Controls access to the devices, ensuring security and management through the central hub.
+- **Proxy Pattern**: This pattern manages access to the devices, guaranteeing security and facilitating management through a central hub.
 
 This ensures modularity, encapsulation, and a strong design architecture.
 
