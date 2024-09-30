@@ -24,34 +24,37 @@ The solution utilizes Object-Oriented Programming (OOP) principles and incorpora
 This ensures modularity, encapsulation, and a strong design architecture.
 
 ## Exercise 1: Problem Statement on Design Patterns
-### Use Case 1: Observer Pattern for Device Status Monitoring
+
+### Behavioral Design Patterns
+
+#### Use Case 1: Observer Pattern for Device Status Monitoring
 - **Scenario**: When the main door is unlocked, all lights are automatically turned on. When the main door is locked, all lights are turned off.
 - **Pattern**: Observer Pattern ensures that the status of all connected devices is updated based on changes in the system (e.g., door lock status).
 
-### Use Case 2: Strategy Pattern for Temperature Control
+#### Use Case 2: Strategy Pattern for Temperature Control
 - **Scenario**: Different temperature control strategies can be applied based on user preferences or energy-saving goals.
 - **Pattern**: Strategy Pattern enables switching between different temperature control modes, such as Eco mode or Comfort mode, based on the user’s choice.
 
-## Creational Design Patterns
+### Creational Design Patterns
 
-### Use Case 3: Factory Pattern for Device Creation
+#### Use Case 3: Factory Pattern for Device Creation
 - **Scenario**: A factory method is used to create various smart home devices (lights, thermostats, door locks) based on input parameters.
 - **Pattern**: Factory Pattern ensures that a single point of creation is maintained for all devices. If a device type is unsupported, an error is generated.
 
-### Use Case 3 Alternative: Builder Pattern for Device Creation
+#### Use Case 3 Alternative: Builder Pattern for Device Creation
 - **Scenario**: Used as an alternative to the Factory Pattern to create complex smart home devices, offering flexibility in their construction.
 - **Pattern**: Builder Pattern provides an alternate way of constructing devices, especially when Factory Pattern has already been implemented.
 
-### Use Case 4: Singleton Pattern for SmartHomeHub
+#### Use Case 4: Singleton Pattern for SmartHomeHub
 - **Scenario**: The SmartHomeHub must maintain only one instance to control all connected devices.
 - **Pattern**: Singleton Pattern ensures that only one instance of the SmartHomeHub exists throughout the system, centralizing control of the devices.
 
-## Structural Design Patterns
+### Structural Design Patterns
 
-### Use Case 5: Adapter Pattern for Legacy Device Integration
+#### Use Case 5: Adapter Pattern for Legacy Device Integration
 - **Scenario**: Legacy devices that don’t follow the modern interface of new smart home devices need to be integrated.
 - **Pattern**: Adapter Pattern allows the legacy devices to work seamlessly within the smart home ecosystem by adapting their interface.
 
-### Use Case 6: Composite Pattern for Grouping Devices
+#### Use Case 6: Composite Pattern for Grouping Devices
 - **Scenario**: Multiple devices are grouped together (e.g., all lights in a room) so that operations can be performed on the group as a whole.
 - **Pattern**: Composite Pattern facilitates the grouping of devices, enabling actions such as turning all lights on or off with a single operation.
