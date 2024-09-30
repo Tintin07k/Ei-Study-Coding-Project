@@ -2,4 +2,4 @@
 Smart Home System Programming Exercise
 
 ## About Me
-I am currently pursuing my final year in BTech in Computer Science with a specialization in Cyber Security. My interests lie in Web Development, Artificial Intelligence & Machine Learning (AIML), and Cyber Security, which has helped me work on diverse projects and continuously upskill myself in these fields.
+My name is Karaka Sri Sai Nitin & I am currently pursuing my final year in BTech in Computer Science with specializing in Cyber Security. My passion for Web Development, Artificial Intelligence & Machine Learning (AIML), and Cyber Security has driven me to work on a wide range of projects, allowing me to consistently enhance my skills and knowledge in these areas.
