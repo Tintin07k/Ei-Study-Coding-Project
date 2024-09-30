@@ -60,3 +60,7 @@ Here are six innovative use cases that showcase my understanding of various soft
 #### Use Case 6: Composite Pattern for Grouping Devices
 - **Scenario**: Multiple devices are grouped together (e.g., all lights in a room) so that operations can be performed on the group as a whole.
 - **Pattern**: Composite Pattern facilitates the grouping of devices, enabling actions such as turning all lights on or off with a single operation.
+
+### Tech Stacks Used
+1. **Java**
+2. **Object-Oriented Programming (OOP)**
