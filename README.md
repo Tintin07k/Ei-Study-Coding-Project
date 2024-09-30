@@ -7,7 +7,7 @@ My name is Karaka Sri Sai Nitin & I am currently pursuing my final year in BTech
 ## About the Project - **Smart Home System Simulation**
 **This repository contains the implementation of both the assigned exercises in Java.**
 
-# Project Overview
+### Project Overview
 
 This project involves implementing a **Smart Home System simulation** that allows users to control various smart devices such as lights, thermostats, and door locks through a central hub. The system enables users to:
 
