@@ -2,8 +2,6 @@
 Smart Home System Programming Exercise
 
 ## Introduction
-My name is Karaka Sri Sai Nitin & I am pursuing my Final Year in B.Tech in Computer Science(CSE) with specialization in Cyber Security. My passion for Web Development, Artificial Intelligence & Machine Learning (AIML), and Cyber Security has driven me to work on a wide range of projects, allowing me to consistently enhance my skills and knowledge in these areas.
-
 My name is Karaka Sri Sai Nitin & I am pursuing my Final Year in B.Tech in Computer Science and Engineering(CSE) with specialization in Cyber Security. My passion in fields of Cyber Security, Machine Learning and Web Development has driven me to work on a wide range of projects, allowing me to consistently enhance my skills and knowledge in these areas.
 
 ## About the Project - **Smart Home System Simulation**
