@@ -15,7 +15,7 @@ This project involves implementing a **Smart Home System simulation** that allow
 - Setting schedules for device operations.
 - Automating Tasks based on Triggers (e.g., turning off lights when the thermostat reaches a certain temperature).
 
-Using object-oriented principles, the solution applies the following design patterns:
+The solution utilizes Object-Oriented Programming (OOP) principles and incorporates the following design patterns:
 
 - **Observer Pattern**: Updates all devices when a change occurs in the system.
 - **Factory Method Pattern**: Creates different types of smart devices (lights, thermostats, door locks).
