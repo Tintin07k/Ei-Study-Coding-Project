@@ -11,7 +11,7 @@ My name is Karaka Sri Sai Nitin & I am pursuing my Final Year in B.Tech Computer
 
 This project involves implementing a **Smart Home System simulation** that allows users to control various smart devices such as lights, thermostats, and door locks through a central hub. The system enables users to:
 
-- Switch off or on devices.
+- Switch OFF or ON devices.
 - Setting schedules for device operations.
 - Automating Tasks based on Triggers (e.g., turning off lights when the thermostat reaches a certain temperature).
 
