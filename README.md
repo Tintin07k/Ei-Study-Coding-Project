@@ -62,3 +62,7 @@ Here are six innovative use cases that showcase my understanding of various soft
 ### Technologies and Principles Applied
 1. **Java**
 2. **Object-Oriented Programming (OOP)**
+
+
+## Exercise 2: Smart Home System Simulation
+
