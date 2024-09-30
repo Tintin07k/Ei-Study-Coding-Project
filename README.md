@@ -17,7 +17,7 @@ This project involves implementing a **Smart Home System simulation** that allow
 
 The solution utilizes Object-Oriented Programming (OOP) principles and incorporates the following design patterns:
 
-- **Observer Pattern**: Updates all devices when a change occurs in the system.
+- **Observer Pattern**: All devices are updated automatically whenever a change is made in the system.
 - **Factory Method Pattern**: Creates different types of smart devices (lights, thermostats, door locks).
 - **Proxy Pattern**: Controls access to the devices, ensuring security and management through the central hub.
 
