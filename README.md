@@ -25,9 +25,9 @@ This ensures modularity, encapsulation, and a strong design architecture.
 
 ## Exercise 1: Design Patterns
 
-### Behavioral Design Patterns
-
 Here are six innovative use cases that showcase my understanding of various software design patterns, demonstrated through coding implementations:
+
+### Behavioral Design Patterns
 
 #### Use Case 1: Observer Pattern for Device Status Monitoring
 - **Scenario**: When the main door is unlocked, all lights are automatically turned on. When the main door is locked, all lights are turned off.
