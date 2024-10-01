@@ -76,13 +76,14 @@ This console-based application allows users to manage and control their Smart Ho
 
 This console-based application offers users several options to perform operations based on their needs. The following are the key features available in the application:
 
-1. **Create a new device**
-2. **Select a device and perform an action**
-3. **View current devices**
-4. **Remove a device**
-5. **Set control system or custom temperature for the thermostat**
-6. **Set a schedule**
-7. **Create a trigger**
-8. **List pending schedules**
-9. **List pending triggers**
-10. **Exit**
+
+1. **Create a new device**: Add a new smart device (light, thermostat, or door lock) to the system.
+2. **Select a device and perform an action**: Choose an existing device and perform an action like turning it on/off or locking/unlocking.
+3. **View current devices**: Display a list of all devices currently connected to the system, along with their statuses.
+4. **Remove a device**: Delete a specific device from the system.
+5. **Set control system or custom temperature for the thermostat**: Adjust the thermostat’s temperature manually or switch to automatic control.
+6. **Set a schedule**: Schedule specific actions for devices (e.g., turning lights on/off at a certain time).
+7. **Create a trigger**: Automate tasks by setting conditions (e.g., turn off lights when a temperature threshold is reached).
+8. **List pending schedules**: View all scheduled tasks that are yet to be executed.
+9. **List pending triggers**: View all set triggers that are awaiting activation.
+10. **Exit**: Quit the application and save all current system settings.
