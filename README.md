@@ -72,4 +72,17 @@ In `Main.java`, you will find the test code for each of these use cases, demonst
 
 This console-based application allows users to manage and control their Smart Home System, enabling them to organize and automate tasks for various smart devices. Users can add, remove, view, and modify device settings, schedule device actions, and automate tasks based on specific conditions. Devices include lights, thermostats, and door locks, which can all be managed from a central hub.
 
+### Features Used:
 
+This console-based application offers users several options to perform operations based on their needs. The following are the key features available in the application:
+
+1. **Create a new device**
+2. **Select a device and perform an action**
+3. **View current devices**
+4. **Remove a device**
+5. **Set control system or custom temperature for the thermostat**
+6. **Set a schedule**
+7. **Create a trigger**
+8. **List pending schedules**
+9. **List pending triggers**
+10. **Exit**
