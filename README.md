@@ -140,3 +140,11 @@ Additionally, validations for common fields like `id` and `type` are implemented
 
 ### Code Testing
 In `MainConsole.java`, you will find the test code for the console-based application that provides the user with certain functionalities and it provides a user interface menu that allows users to navigate through options and performs actions based on their selection for managing your Smart Home System.
+
+## Additional Info regarding Code Location
+
+- **The `src/com/smarthome` contains all the .java files where the code has been written for the project.**
+- **The `out/production/SmartHomeApplication/com/smarthome` contains the .class files of the project.**
+- **The `Main.java` and `MainConsole.java` are runnable program files.**
+- **`Main.java` is used for Exercise - 1 Design Pattern Implementation.**
+- **`MainConsole.java` is used for Exercise - 2 Smart Home System Simulation.**
