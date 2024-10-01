@@ -139,4 +139,4 @@ Additionally, validations for common fields like `id` and `type` are implemented
 - **Exception Handling Mechanism with the help of `exceptions` module in which I have implemented InvalidTriggerException, UnauthorizedAccessException, UnsupportedActionException for handling any edge cases.**
 
 ### Code Testing
-In `MainConsole.java`, you will find the test code for the console-based application that provides the user with certain functionalities for managing your Smart Home System.
+In `MainConsole.java`, you will find the test code for the console-based application that provides the user with certain functionalities and it provides a user interface menu that allows users to navigate through options and performs actions based on their selection for managing your Smart Home System.
