@@ -68,3 +68,7 @@ In `Main.java`, you will find the test code for each of these use cases, demonst
 
 ## Exercise 2: Smart Home System Simulation
 
+### Problem Definition 
+
+
+
