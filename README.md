@@ -98,3 +98,35 @@ This console-based application offers users several options to perform operation
 8. **List pending schedules**: View all scheduled tasks that are yet to be executed.
 9. **List pending triggers**: View all set triggers that are awaiting activation.
 10. **Exit**: Quit the application and save all current system settings.
+
+### Principles Followed:
+
+#### 1. Organizing the Project Structure
+
+Each class is placed in its own file, and packages are used to organize files based on their functionality.
+
+#### 2. Naming Conventions and Structure
+
+Java naming conventions followed in the project:
+
+- **Class Names**: PascalCase is used for all class names.  
+  Example: `SmartHomeHub`, `DeviceFactory`.
+- **Package Names**: Lowercase is used for all package names.  
+  Example: `com.smarthome.device`.
+- **Methods and Variables**: camelCase is used for methods and variables.
+
+#### Refactoring
+
+Since `id` and `type` are common for all devices, these properties have been moved to a shared abstract base class. This base class is extended by all concrete device classes (e.g., `Light`, `Door`, `Thermostat`). This approach avoids duplication and adheres to the DRY (Don't Repeat Yourself) principle.  
+Additionally, validations for common fields like `id` and `type` are implemented within the abstract class.
+
+#### Refactoring Approach:
+
+- **Abstract Base Class**: An abstract class `AbstractDevice` has been created to hold common properties like `id` and `type`.
+- **Inheritance**: Concrete device classes (e.g., `Light`, `Door`, `Thermostat`) extend the `AbstractDevice` class, inheriting these common properties.
+- **Device Interface**: The `Device` interface focuses purely on the behaviors (methods) without the need to repeat properties.
+
+#### Other Refactoring:
+
+- **Documentation**: Added Javadoc comments to the classes and constructors to clarify their purpose and usage.
+
