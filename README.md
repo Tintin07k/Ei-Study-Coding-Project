@@ -1,4 +1,4 @@
-# Ei-Study-Coding-Project
+# Ei-Study-Coding-Project by Karaka Nitin
 Smart Home System Programming Exercise
 
 ## Introduction
