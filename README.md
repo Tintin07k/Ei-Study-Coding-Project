@@ -135,3 +135,4 @@ Additionally, validations for common fields like `id` and `type` are implemented
 - **Java**
 - **Object Oriented Programming**
 - **Design Patterns (Observer Pattern, Factory Method Pattern, Proxy Pattern)**
+- **Logging Mechanism utilizes `java.util.logging` for logging system activities and debugging info with Level and Logger**    
