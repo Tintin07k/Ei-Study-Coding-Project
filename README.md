@@ -81,7 +81,7 @@ This console-based application offers users several options to perform operation
 2. **Select a device and perform an action**: Choose an existing device and perform an action like turning it on/off or locking/unlocking.
 3. **View current devices**: Display a list of all devices currently connected to the system, along with their statuses.
 4. **Remove a device**: Delete a specific device from the system.
-5. **Set control system or custom temperature for the thermostat**: Adjust the thermostat’s temperature manually or switch to automatic control.
+5. **Set control system or custom temperature for the thermostat**: Adjust the thermostat’s temperature manually or switch to automatic control which contain specific modes such as Comfort Mode and Eco Mode which will automatically set the temperature of the thermostat.
 6. **Set a schedule**: Schedule specific actions for devices (e.g., turning lights on/off at a certain time).
 7. **Create a trigger**: Automate tasks by setting conditions (e.g., turn off lights when a temperature threshold is reached).
 8. **List pending schedules**: View all scheduled tasks that are yet to be executed.
