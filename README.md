@@ -63,6 +63,8 @@ Here are six innovative use cases that showcase my understanding of various soft
 1. **Java**
 2. **Object-Oriented Programming (OOP)**
 
+### Code Testing 
+In `Main.java`, you will find test code for each of these use cases, demonstrating the implementation of the various design patterns.
 
 ## Exercise 2: Smart Home System Simulation
 
