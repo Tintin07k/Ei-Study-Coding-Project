@@ -130,3 +130,8 @@ Additionally, validations for common fields like `id` and `type` are implemented
 
 - **Documentation**: Added Javadoc comments to the classes and constructors to clarify their purpose and usage.
 
+### Technologies Implemented:
+
+- **Java**
+- **Object Oriented Programming**
+- **Design Patterns (Observer Pattern, Factory Method Pattern, Proxy Pattern)**
