@@ -70,5 +70,5 @@ In `Main.java`, you will find the test code for each of these use cases, demonst
 
 ### Problem Definition 
 
-
+This console-based application allows users to manage and control their Smart Home System, enabling them to organize and automate tasks for various smart devices. Users can add, remove, view, and modify device settings, schedule device actions, and automate tasks based on specific conditions. Devices include lights, thermostats, and door locks, which can all be managed from a central hub.
 
