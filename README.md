@@ -84,6 +84,7 @@ This console-based application offers users several options to perform operation
 5. **Set control system or custom temperature for the thermostat**: Adjust the thermostat’s temperature manually or switch to automatic control which contain specific modes such as **Comfort Mode** and **Eco Mode** which will automatically set the temperature of the thermostat.
 6. **Set a schedule**: Schedule specific actions for devices (e.g., turning lights on/off at a certain time).
 7. **Create a trigger**: Automate tasks by setting conditions (e.g., turn off lights when a temperature threshold is reached).
+   
   Example input for creating a trigger:
   Choose an option: 7
   Enter the condition for the trigger: temperature > 70 (Enter your own condition)
