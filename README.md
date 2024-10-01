@@ -138,5 +138,5 @@ Additionally, validations for common fields like `id` and `type` are implemented
 - **Logging Mechanism utilizes `java.util.logging` module for logging system activities and debugging info with Level and Logger**
 - **Exception Handling Mechanism with the help of `exceptions` module in which I have implemented InvalidTriggerException, UnauthorizedAccessException, UnsupportedActionException for handling any edge cases.**
 
-#### Code Testing
+### Code Testing
 In `MainConsole.java`, you will find the test code for the console-based application that provides the user with certain functionalities for managing your Smart Home System.
