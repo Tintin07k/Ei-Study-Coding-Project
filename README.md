@@ -88,8 +88,11 @@ This console-based application offers users several options to perform operation
   Example input for creating a trigger:
   
   Choose an option: 7
+  
   Enter the condition for the trigger: temperature > 70 (Enter your own condition)
+  
   Enter the action to perform when triggered: TurnOn(id) which tells us to mention the id of the device
+  
   Trigger created successfully.
 
 8. **List pending schedules**: View all scheduled tasks that are yet to be executed.
